@@ -11,12 +11,19 @@ To perform complete Exploratory Data Analysis (EDA) on the Wine Quality dataset,
 ## Algorithm
 
 Step 1 - Load the wine dataset and check its basic structure, shape, and missing values.
+
 Step 2 - Plot univariate distributions for alcohol, volatile acidity, and pH to understand individual feature behavior.
+
 Step 3 - Create bivariate boxplots to study relationships between wine quality and key predictors.
+
 Step 4 - Compute and visualize the correlation matrix to identify feature relationships with wine quality.
+
 Step 5 - Convert wine quality into a binary good/bad label for classification.
+
 Step 6 - Split the dataset into training and testing sets for model evaluation.
+
 Step 7 - Train a Logistic Regression model and predict wine quality on test data.
+
 Step 8 - Evaluate the model using accuracy and confusion matrix, and detect outliers using boxplots.
 
 
