@@ -86,7 +86,23 @@ print(corr['quality'].sort_values(ascending=False))
 ```
 
 
-**Output**
+## Output
 
-**Result**
+<img width="659" height="597" alt="image" src="https://github.com/user-attachments/assets/5000f2ca-59c3-4b4b-96eb-e8969ff998b5" />
+
+<img width="918" height="289" alt="image" src="https://github.com/user-attachments/assets/0514c2fa-80df-4865-8f90-785859512a51" />
+
+<img width="728" height="288" alt="image" src="https://github.com/user-attachments/assets/2055dbca-fc58-4e3d-9b87-8ad9d83f02fe" />
+
+<img width="720" height="296" alt="image" src="https://github.com/user-attachments/assets/da701fbe-33c4-4eea-95db-1866e0e76324" />
+
+<img width="1350" height="19" alt="image" src="https://github.com/user-attachments/assets/12fc97cd-cc37-4e6a-83cf-1decc3af372a" />
+
+<img width="630" height="441" alt="image" src="https://github.com/user-attachments/assets/257db87f-2346-4320-9079-5542ca9844aa" />
+
+<img width="859" height="623" alt="image" src="https://github.com/user-attachments/assets/0d260402-65d0-4fd6-a1bd-7c7afa51dbfd" />
+
+<img width="540" height="239" alt="image" src="https://github.com/user-attachments/assets/070498bc-af38-4c17-8e6f-bd37edf147b2" />
+
+## Result
 
